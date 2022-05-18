@@ -1,4 +1,4 @@
-# Jasvascript Demos!
+# Javascript Demos!
 I am learning Javascript and typescript and wanted a place to upload completed tutorials and projects.  I'm following guided instructional videos from youtube at this point but hopfully I'll eventually be building my own projects that can also go here.    
 
 ## John Smilga Demos
